@@ -11,7 +11,6 @@
 </h2>
 
 ## 📚 Sobre
-------------
 Repositório dedicado a resoluções de todos os exercícios e desafios propostos no Curso de HTML5 e CSS3, oferecido pela plataforma **Curso Em Vídeo**, ministrado pelo Professor e Desenvolvedor **Gustavo Guanabara**, em outubro de 2020.
 
 A partir das aulas básicas, solucionei os exercícios e desafios e acrescentei novas funções.
@@ -25,7 +24,6 @@ Para ter acesso ao material, acesse: https://github.com/gustavoguanabara/html-cs
 *Todos os direitos reservados a <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE">Gustavo Guanabara</a>*
 
 ## 🚀 Tecnologias Utilizadas
-------------
 O projeto foi desenvolvido a partir das tecnologias:
 
 - *HTML5*
@@ -33,7 +31,6 @@ O projeto foi desenvolvido a partir das tecnologias:
 
 
 ## 📚 About
-------------
 *Dedicated repository to solving all the exercises and challenges proposed in the HTML5 and CSS3 Course, offered by **Curso Em Vídeo** plataform, taught by Professor and developer Gustavo Guanabara, in October 2020.*
 
 *From the basic classes, I solved the exercises and challenges and added new functions.*
@@ -47,7 +44,6 @@ O projeto foi desenvolvido a partir das tecnologias:
 *All rights reserved to <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE">Gustavo Guanabara</a>*
 
 ## 🚀 Technologies Used:
-------------
 *The project was developed based on technologys:*
 
 - *HTML5*
