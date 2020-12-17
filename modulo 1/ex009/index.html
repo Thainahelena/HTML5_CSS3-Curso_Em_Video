@@ -3,38 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Other Formats</title>
+    <title>Lists</title>
 </head>
 <body>
-    <h1>Other Formats</h1>
+    <h1>Lists</h1>
+    <h2>Ordered List</h2>
+    <ol type="i">
+        <li>Item z</li>
+        <li>Item x</li>
+        <li>Item c</li>
+        <li>Item v</li>
+    </ol>
 
-    <h2>Source Code</h2>
-    <p>The command <code>document.getElementById('test')</code> is written in JavaScript language!</p>
-    <p>Other Exemple:</p>
-    <pre>
-        <code>
-    num = int(input("Enter a number:"))
-    if num % 2 == 0
-        print(f'The number {num} is even!')
-    else:
-        print(f'The number {num} is odd!')
-    print('The End')
-        </code>
-    </pre>
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Item q</li>
+        <li>Item w</li>
+        <li>Item e</li>
+        <li>Item r</li>
+    </ul>
 
-    <h2>Quotes</h2>
-    <p>They said: <q>The computer is a very fast donkey!</q></p>
-
-    <h2>Complete Quotes</h2>
-    <p>According to Jeff Noble, in HTML for Dummies:</p>
-    <blockquote cite="https://www.amazon.com.br/HTML-XHTML-CSS-para-leigos/dp/8576086972/ref=asc_df_8576086972/?tag=googleshopp00-20&linkCode=df0&hvadid=379765802639&hvpos=&hvnetw=g&hvrand=10024463955855491073&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001634&hvtargid=pla-811121404721&psc=1">
-        You can launch a new career in web development today by learning HTML & CSS. You don't need a computer science degree or expensive software. All you need is a computer, a bit of time, a lot of determination, and a teacher you trust. I've taught HTML and CSS to countless coworkers and held training sessions for fortune 100 companies. I am that teacher you can trust. 
-    </blockquote>
-
-    <h2>Abbreviations</h2>
-    <p>I'm studdying <abbr title="HyperText Markup Language">HTML</abbr> and <abbr title="Cascading Style Sheets">CSS</abbr>!</p>
-
-    <h2>Inverted Text</h2>
-    <p><bdo dir="rtl">I'm studdying HTML and CSS!</bdo></p>
+    <h2>Joining Lists</h2>
+    <ol>
+        <li>Example 1</li>
+            <ol type="i">
+                <li>Item u</li>
+                <li>Item o</li>
+                <li>Item a</li>
+            </ol> 
+        <li>Example 2</li>
+            <ul type="square">
+                <li>Item b</li>
+                    <ol type="A">
+                        <li>Item t</li>
+                        <li>Item y</li>
+                        <li>Item u</li>
+                    </ol> 
+                <li>Item n</li>
+                <li>Item m</li>
+            </ul> 
+    </ol>
+    
+    <h2>Definitions List</h2>
+    <dl>
+        <dt>HTML</dt>
+        <dd>Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser.</dd>
+        <dt>CSS</dt>
+        <dd>Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML.</dd>
+        <dt>JavaScript</dt>
+        <dd>JavaScript is a lightweight interpreted programming language. The web browser receives the JavaScript code in its original text form and runs the script from that.</dd>
+    </dl>
 </body>
 </html>
