@@ -34,11 +34,9 @@ O projeto foi desenvolvido a partir das tecnologias:
 ## 📚 About
 *Dedicated repository to solving all the exercises and challenges proposed in the HTML5 and CSS3 Course, offered by **Curso Em Vídeo** plataform, taught by Professor and developer Gustavo Guanabara, since October 2020.*
 
-*To access this content, visit the [**Playlist**](https://youtu.be/Ejkb_YpuHWs)*
-
-*To support this project, visit [**Curso Em Vídeo**](https://www.cursoemvideo.com/apoie)*
-
-*To access the material, visit [**Github**](https://github.com/gustavoguanabara/html-css)*
+*To access this content, visit the [**Playlist**](https://youtu.be/Ejkb_YpuHWs)*   
+*To support this project, visit [**Curso Em Vídeo**](https://www.cursoemvideo.com/apoie)*   
+*To access the material, visit [**Github**](https://github.com/gustavoguanabara/html-css)*   
 
 *All rights reserved to <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE">Gustavo Guanabara</a>*
 
