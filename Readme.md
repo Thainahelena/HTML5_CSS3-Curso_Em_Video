@@ -19,9 +19,9 @@
 ## 📚 Sobre
 Repositório dedicado a resoluções de todos os exercícios e desafios propostos no Curso de HTML5 e CSS3, oferecido pela plataforma **Curso Em Vídeo**, ministrado pelo Professor e Desenvolvedor **Gustavo Guanabara**, desde outubro de 2020.
 
-Para ter acesso a este conteúdo, acesse a [**Playlist**](https://youtu.be/Ejkb_YpuHWs)
-Para apoiar este projeto, acesse [**Curso Em Vídeo**](https://www.cursoemvideo.com/apoie)
-Para ter acesso ao material, acesseo o [**Github**](https://github.com/gustavoguanabara/html-css)
+Para ter acesso a este conteúdo, acesse a [**Playlist**](https://youtu.be/Ejkb_YpuHWs)   
+Para apoiar este projeto, acesse [**Curso Em Vídeo**](https://www.cursoemvideo.com/apoie)   
+Para ter acesso ao material, acesseo o [**Github**](https://github.com/gustavoguanabara/html-css)   
 
 *Todos os direitos reservados a <a href="https://github.com/gustavoguanabara/html-css/blob/master/LICENSE">Gustavo Guanabara</a>*
 
